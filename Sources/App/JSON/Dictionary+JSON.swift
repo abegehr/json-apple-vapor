@@ -1,4 +1,5 @@
 import Foundation
+import CoreFoundation
 
 public extension [String: Any] {
     func boolValue(forKey key: String) -> Bool? {
