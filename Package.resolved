@@ -28,15 +28,6 @@
       }
     },
     {
-      "identity" : "json-apple",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/shareup/json-apple.git",
-      "state" : {
-        "revision" : "c316760ca55e3f27a66bdd0171aecd8c33d0bd8d",
-        "version" : "1.4.0"
-      }
-    },
-    {
       "identity" : "multipart-kit",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/vapor/multipart-kit.git",
